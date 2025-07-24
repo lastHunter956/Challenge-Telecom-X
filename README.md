@@ -545,7 +545,7 @@ El proyecto incluye **15+ visualizaciones analíticas:**
 **👨‍💻 Autor:** Jesús Martinez  
 **🎓 Programa:** Especialización en Ciencia de Datos - Alura LATAM  
 **📅 Fecha:** Julio 2025  
-**📧 Email:** [email](info@jesus-martinez.me)
+**📧 Email:** [info@jesus-martinez.me](info@jesus-martinez.me)
 **🔗 LinkedIn:** [Perfil profesional](https://www.linkedin.com/in/jesusmartinezv/)
 
 ### **🤝 Contribuciones**
